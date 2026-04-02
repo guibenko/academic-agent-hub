@@ -1,1 +1,1 @@
-# Admin Agents - adminiistrative Automation
+# Admin Agents - administrative Automation
